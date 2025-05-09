@@ -1,4 +1,4 @@
-# CoCorrRec
+# Device-Cloud Collaborative Correction for On-Device Recommendation (CoCorrRec)
 
 The file ttt.py comes from https://github.com/test-time-training/ttt-lm-pytorch (Learning to (Learn at Test Time): RNNs with Expressive Hidden States)
 
